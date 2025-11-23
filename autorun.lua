@@ -6,6 +6,7 @@ local listgame = {
   [13772394625] = "obf_t2jFGF297sN3sc2tq5t7v404feR0KpEDKn8cHmkxjq5ig8Pv0wTXHxX2ETo32w4c.lua",
   [136801880565837] = "obf_vnRZXB8ZwLiiMhEP85307ZJd48s144BT15915L0s3w4N80XQ5aUP6EQRU4f77UxZ.lua",
   [17625359962] = "obf_c2ZfY4vQdF72iTnBy438kh3q5EsU8c965E12a6hKrOK6gV0S7A0cl1YF50uGKRYa.lua",
+  [286090429] = "obf_jG4cdkB18ULD0Elo9ZWraDwF28b4tykm5OUO7exj6j09JlhC6okXvVo39XGfM73g.lua",
 }
 
 if listgame[game.PlaceId] then
